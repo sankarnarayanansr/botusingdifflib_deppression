@@ -2,7 +2,7 @@
 
 SOFTWARE REQUIRED
   python 3
-  lask
+  flask
   heapq
   pandas
   difflib
