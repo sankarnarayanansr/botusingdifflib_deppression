@@ -1,6 +1,6 @@
 # botusingdifflib_deppression
 
-SOFTWARE REQUIRED
+<b>SOFTWARE REQUIRED</b><br>
   python3<br>
   flask<br>
   heapq<br>
@@ -8,7 +8,7 @@ SOFTWARE REQUIRED
   difflib<br>
  
  
-HOW TO RUN:
+<b>HOW TO RUN:</b><br>
   Clone the repository<br>
   Run flakpage.py as python3 flaskpage.py<br>
   
