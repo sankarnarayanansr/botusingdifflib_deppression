@@ -120,7 +120,7 @@
     
   }
   .right-msg .msg-bubble {
-    color: black;
+    color: white;
     border-bottom-right-radius: 0;
   }
   .right-msg  {
@@ -177,9 +177,9 @@
      {% if messages %}
      {% for j in messages %}
         {% for k in j %}
-      
 
-    <div class="msg left-msg">
+
+    <div class= "{{ x[k] }}">
       
      
       <div class="msg-bubble">
